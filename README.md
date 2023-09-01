@@ -2,13 +2,11 @@
 <h3 align="center">Aspiring Student Developer | Ready to Make an Impact</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **React and Angular**
-
-- 💬 Ask me about **Frontend Technologies**
+- 🔭 I’m currently working on mastering **MERN Stack**
 
 - 📫 How to reach me **himajay03@gmail.com**
 
-- 📄 Know more about me [https://drive.google.com/file/d/1QAJrfNbnclSWDAPkMTObJBWYOV1XFlup/view?usp=sharing](https://drive.google.com/file/d/1QAJrfNbnclSWDAPkMTObJBWYOV1XFlup/view?usp=sharing)
+- 📄 Know more about me [https://drive.google.com/file/d/1_rBIbls7eODxjZqJlrhKhm98e8CPVrm7/view?usp=drive_link]
 
 - ⚡ Fun fact **I'm fluent in English, and I can code just as fluently!**
 
