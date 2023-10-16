@@ -8,4 +8,4 @@ Aspiring Student Developer | Ready to Make an Impact
 
 ## Connect with me
 
-[LinkedIn](https://linkedin.com/in/naga-himaja-yaddanapudi) | [HackerRank](https://www.hackerrank.com/naga-himaja-yaddanapudi)
+[LinkedIn](https://www.linkedin.com/in/naga-himaja-yaddanapudi-297221215) | [HackerRank](https://www.hackerrank.com/208W1A05C8_CSE)
